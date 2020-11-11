@@ -1,0 +1,8 @@
+name: sim
+dependencies:
+- python=3.7
+- pip:
+  - numpy
+  - matplotlib
+  - pandas
+  - scipy
